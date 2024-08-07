@@ -1,1 +1,1 @@
-rint {"Hello QuanticK4India!! v12"}
+iefjrint {"Hello QuanticK4India!! v12"}
