@@ -1,1 +1,1 @@
-print"Hello QuanticK4India!! v12"
+print {"Hello QuanticK4India!! v12"}
